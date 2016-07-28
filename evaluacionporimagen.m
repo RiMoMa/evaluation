@@ -3,7 +3,7 @@ function [claseSel,ClassName] = evaluacionporimagen(model,number_layer_aux,windo
 
 confusiones={};
 
-%cargade=[tree,'SIN_',NoCarpeta,'-model.mat'];
+
 load (model);
 rutas_test={};
 %fprintf(' %d de %d \n', ii, length(indices_casos));
