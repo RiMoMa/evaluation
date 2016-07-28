@@ -5,4 +5,4 @@ normalizeStaning.m
 
 extractMRdescriptor2.m
 
-intalar librerias VLFEAT
+instalar librerias VLFEAT
